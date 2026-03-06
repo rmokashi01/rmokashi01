@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/rehan-mokashi-7b32472a2/">🔗 LinkedIn</a> •
   <a href="https://github.com/rmokashi01">🐙 GitHub</a> •
   <a href="https://rmokashi01.github.io/rehan-portfolio/">🌐 Portfolio</a> •
+  <a href="https://leetcode.com/u/rmokashi01/">🟠 LeetCode</a> •
   <a href="https://drive.google.com/file/d/your-resume-id/view">📄 Résumé</a>
 </p>
 
@@ -150,6 +151,17 @@ Responsive personal portfolio showcasing projects and achievements
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmokashi01&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## 💻 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/rmokashi01/">
+    <img src="https://leetcard.jacoblin.cool/rmokashi01?theme=light&font=Karma&ext=contest" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/rmokashi01/">Visit My LeetCode Profile</a>
+</p>
 ---
 
 

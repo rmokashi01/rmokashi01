@@ -23,7 +23,7 @@
   <a href="https://rmokashi01.github.io/rehan-portfolio/">🌐 Portfolio</a> •
   <a href="https://leetcode.com/u/rmokashi01/">🟠 LeetCode</a> •
   <!-- UPDATE: Replace with your actual resume link -->
-  <a href="https://drive.google.com/file/d/1vC_pazxjMeN0Qkm30N8cfrH4sFaON5cu/view?usp=drive_link">📄 Résumé</a>
+  <a href="https://drive.google.com/file/d/1YiFu4gppmLfYmpTm8o653oUEaplSzowC/view?usp=sharing">📄 Résumé</a>
 </p>
 
 <p align="center">
